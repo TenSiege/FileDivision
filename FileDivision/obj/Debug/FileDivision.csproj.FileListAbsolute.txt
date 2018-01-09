@@ -1,0 +1,10 @@
+C:\Users\陈威\Workspaces\C#项目\FileDivision\FileDivision\bin\Debug\FileDivision.exe.config
+C:\Users\陈威\Workspaces\C#项目\FileDivision\FileDivision\bin\Debug\FileDivision.exe
+C:\Users\陈威\Workspaces\C#项目\FileDivision\FileDivision\bin\Debug\FileDivision.pdb
+C:\Users\陈威\Workspaces\C#项目\FileDivision\FileDivision\obj\Debug\FileDivision.csprojResolveAssemblyReference.cache
+C:\Users\陈威\Workspaces\C#项目\FileDivision\FileDivision\obj\Debug\FileDivision.MianFrom.resources
+C:\Users\陈威\Workspaces\C#项目\FileDivision\FileDivision\obj\Debug\FileDivision.Properties.Resources.resources
+C:\Users\陈威\Workspaces\C#项目\FileDivision\FileDivision\obj\Debug\FileDivision.csproj.GenerateResource.Cache
+C:\Users\陈威\Workspaces\C#项目\FileDivision\FileDivision\obj\Debug\FileDivision.csproj.CoreCompileInputs.cache
+C:\Users\陈威\Workspaces\C#项目\FileDivision\FileDivision\obj\Debug\FileDivision.exe
+C:\Users\陈威\Workspaces\C#项目\FileDivision\FileDivision\obj\Debug\FileDivision.pdb
